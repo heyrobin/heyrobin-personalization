@@ -1,0 +1,10 @@
+@font-face {
+	font-family: bangers;
+	src: url(https://raw.githubusercontent.com/DadosNus/Kaggle-survey/main/fonts/Bangers-Regular.ttf);
+}
+.jp-MarkdownCell h1, 
+.text_cell h1,
+.jp-MarkdownCell h2, 
+.text_cell h2 {
+    font-family: bangers !important;
+}
